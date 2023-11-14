@@ -1,4 +1,2 @@
 This is test 3
 Ready to create version 1.0
-
-food is great :D
